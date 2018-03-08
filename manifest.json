@@ -1,0 +1,17 @@
+{
+    "name": "whatsapp-web-blur-image-extension-chrome",
+    "author": "Orivelton Cesar - https://github.com/orivelton10",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "whatsapp-web-blur-image-extension-chrome",
+    "browser_action":{
+       "default_icon": "128.png",
+       "popup": "index.html"
+    },
+    "content_scripts": [
+        {
+          "matches": ["https://web.whatsapp.com//*"],
+          "css": ["src/css/opacityImg.css"]
+        }
+    ]
+ }
