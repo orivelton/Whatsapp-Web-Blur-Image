@@ -1,0 +1,1 @@
+# whatsapp-web-blur-image-extension-chrome
