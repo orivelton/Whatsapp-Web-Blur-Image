@@ -1,9 +1,9 @@
 {
-    "name": "W Blur Image",
+    "name": "ZapWebBlurImage",
     "author": "Orivelton Cesar - https://github.com/orivelton10",
     "version": "1.0.0",
     "manifest_version": 2,
-    "description": "w-web-blur-image-extension-chrome",
+    "description": "ZapWebBlurImage",
     "browser_action":{
        "default_icon": "src/img/128.png",
        "popup": "index.html"
