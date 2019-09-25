@@ -1,9 +1,9 @@
 {
-    "name": "whatsapp Web Blur Image",
+    "name": "W Blur Image",
     "author": "Orivelton Cesar - https://github.com/orivelton10",
     "version": "1.0.0",
     "manifest_version": 2,
-    "description": "whatsapp-web-blur-image-extension-chrome",
+    "description": "w-web-blur-image-extension-chrome",
     "browser_action":{
        "default_icon": "src/img/128.png",
        "popup": "index.html"
