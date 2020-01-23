@@ -1,10 +1,12 @@
-img[style="width: 100%;"] {
+img[style="width: 100%;"],
+img[style="height: 100%;"] {
     filter: blur(12px) contrast(81%) hue-rotate(3deg) invert(9%);
     -webkit-filter: blur(12px) contrast(81%) hue-rotate(3deg) invert(9%);
     -webkit-transition: -webkit-filter .16s linear;
 }
 
-img[style="width: 100%;"]:hover {
+img[style="width: 100%;"]:hover,
+img[style="height: 100%;"]:hover {
     filter: none;
     -webkit-filter: none;
     -webkit-transition: -webkit-filter .16s linear;
