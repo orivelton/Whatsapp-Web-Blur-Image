@@ -1,3 +1,3 @@
 # ZapWebBlurImage extension chrome
 
-Projeto desenvolvido para criar um blur em imagens do whatsapp web
+Project developed to create a blur on whatsapp web images
