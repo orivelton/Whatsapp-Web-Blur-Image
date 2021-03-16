@@ -1,7 +1,7 @@
 {
     "name": "Blur Image for Web WhatsApp",
     "author": "Orivelton Cesar - https://github.com/orivelton",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "manifest_version": 2,
     "description": "Blur Image for Web WhatsApp",
     "browser_action":{
