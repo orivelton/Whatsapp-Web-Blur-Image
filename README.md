@@ -1,3 +1,3 @@
-# WebBlurImage extension chrome
+# Extension chrome
 
 Blur image for whatsapp web
